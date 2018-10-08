@@ -3,5 +3,6 @@ declare module 'seed' {
     mode: string;
     port: string;
     connectionString: string;
+    appInsightsKey: string;
   }
 }
